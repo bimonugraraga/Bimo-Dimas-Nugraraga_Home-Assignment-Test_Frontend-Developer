@@ -1,0 +1,20 @@
+.HomeContent{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.myCar{
+  width: 80%;
+}
+.myContent{
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.forCard {
+
+  margin: 10px;
+  box-shadow: 5px 10px rebeccapurple;
+}
