@@ -1,0 +1,21 @@
+.myNav{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  position: relative;
+  background-color: rebeccapurple;
+  margin-bottom: 30px;
+  height: min-content;
+}
+
+.toHome{
+  height: 40px;
+  margin: 10px;
+  color: white;
+  background-color: #A855F7;
+  padding: 10px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
